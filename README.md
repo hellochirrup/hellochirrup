@@ -1,2 +1,2 @@
 # hellochirrup
-Portfolio for our LLC
+Portfolio 
